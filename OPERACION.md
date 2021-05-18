@@ -2,6 +2,7 @@
 *
 * @author sabas 
 */
+
 public class Operacion {
     
     double n1;
